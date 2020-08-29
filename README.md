@@ -1,6 +1,6 @@
 # react-native-unity-view
 
-### Do not use for regular applications. This fork has been generated for a specific project !!!
+# Do not use for regular applications. This fork has been generated for a specific project !!!
 
 Integrate unity3d within a React Native app. Add a react native component to show unity. Works on both iOS and Android.
 
