@@ -1,5 +1,5 @@
 #import "RCTViewManager.h"
-#import <UnityFramework/UnityFramework.h>
+#import "UnityFramework.h"
 #import "UnityUtils.h"
 #import "RNUnityView.h"
 

@@ -1,5 +1,5 @@
 {
-  "name": "@asmadsen/react-native-unity-view",
+  "name": "@bilal-arikan/react-native-unity-view",
   "title": "React Native Unity View",
   "version": "0.0.7",
   "description": "Embed Unity Player inside a React Native app",
@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asmadsen/react-native-unity-view.git",
-    "baseUrl": "https://github.com/asmadsen/react-native-unity-view"
+    "url": "git+https://github.com/bilal-arikan/react-native-unity-view.git",
+    "baseUrl": "https://github.com/bilal-arikan/react-native-unity-view"
   },
   "keywords": [
     "react-native"

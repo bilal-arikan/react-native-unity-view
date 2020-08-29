@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <UnityFramework/UnityFramework.h>
+#import "UnityFramework.h"
 
 #ifndef UnityUtils_h
 #define UnityUtils_h
